@@ -1,6 +1,6 @@
 # Project Micro Survivors Prototype 4
  The fourth prototype for game Project Micro Survivors. Currently building in Unity WebGL format.
-## As of version 0.4 Game Includes
+## As of version 0.4.1 Game Includes
 -1 Playable Character
 
 -7 Enemies
