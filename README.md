@@ -14,4 +14,7 @@ Movement: Use WASD or the Arrow Keys to move up, down, left, and right.
 Shoot: Hold "Spacebar" or "Left Mouse" to fire antibodies in four directions
 Pause: Press the "Esc" key to pause and unpause the game
 
-You can use WASD, Arrow Keys, or click on the menu buttons with the mouse to navigate the UI
+You can use WASD, Arrow Keys, or the mouse to navigate the UI.
+You can use the "Spacebar" or the "Left Mouse" to use the selected UI button.
+When selected using the WASD or Arrow Keys the button should appear blue.
+When selecting using the mouse the button should appear orange.
